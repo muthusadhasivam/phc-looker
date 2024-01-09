@@ -1,4 +1,4 @@
-connection: "bigquery-looker-stg"
+connection: "spanner-looker"
 
 
 include: "/tnphr_views/*.view.lkml" #Included all views in BigQuery

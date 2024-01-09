@@ -1,5 +1,5 @@
 view: lab_test {
-  sql_table_name: `milky-way-galaxy-2707.KPI.lab_test`
+  sql_table_name: `phc-platform.KPI.lab_test`
     ;;
 
   dimension: citizen_block_gid {

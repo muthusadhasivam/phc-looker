@@ -1,4 +1,4 @@
-connection: "bigquery-looker-prod-kpi"
+connection: "spanner-looker"
 
 
 include: "/prod-version2-views/*.view.lkml" #Included all views in BigQuery

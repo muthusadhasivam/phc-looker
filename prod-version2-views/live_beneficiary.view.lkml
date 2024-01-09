@@ -1,5 +1,5 @@
 view: live_beneficiary {
-  sql_table_name: `milky-way-galaxy-2707.KPI.live_beneficiary`
+  sql_table_name: `phc-platform.KPI.live_beneficiary`
     ;;
 
   dimension: new_records_added {

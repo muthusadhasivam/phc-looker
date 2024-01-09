@@ -1,5 +1,5 @@
 view: population {
-  sql_table_name: `milky-way-galaxy-2707.KPI.population`
+  sql_table_name: `phc-platform.KPI.population`
     ;;
 
   dimension: citizen_age {

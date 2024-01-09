@@ -1,5 +1,5 @@
 view: diseases {
-  sql_table_name: `milky-way-galaxy-2707.KPI.diseases`
+  sql_table_name: `phc-platform.KPI.diseases`
     ;;
 
   dimension: citizen_block_gid {

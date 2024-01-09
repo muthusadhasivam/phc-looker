@@ -1,5 +1,5 @@
 view: screening {
-  sql_table_name: `milky-way-galaxy-2707.KPI.screening`
+  sql_table_name: `phc-platform.KPI.screening`
     ;;
 
   dimension: citizen_age {

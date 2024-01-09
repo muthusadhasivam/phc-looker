@@ -1,5 +1,5 @@
 view: mtm_beneficiary {
-  sql_table_name: `milky-way-galaxy-2707.KPI.mtm_beneficiary`
+  sql_table_name: `phc-platform.KPI.mtm_beneficiary`
     ;;
 
   dimension: citizen_block_gid {

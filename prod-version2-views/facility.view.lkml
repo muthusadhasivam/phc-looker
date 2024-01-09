@@ -1,5 +1,5 @@
 view: facility {
-  sql_table_name: `milky-way-galaxy-2707.KPI.facility`
+  sql_table_name: `phc-platform.KPI.facility`
     ;;
 
   dimension: facility_block_gid {

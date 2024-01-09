@@ -1,5 +1,5 @@
 view: family {
-  sql_table_name: `milky-way-galaxy-2707.KPI.family`
+  sql_table_name: `phc-platform.KPI.family`
     ;;
 
   dimension: avg_family_size {

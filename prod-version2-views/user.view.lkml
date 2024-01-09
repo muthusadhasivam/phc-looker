@@ -1,5 +1,5 @@
 view: user {
-  sql_table_name: `milky-way-galaxy-2707.KPI.user`
+  sql_table_name: `phc-platform.KPI.user`
     ;;
 
   dimension: is_user_active {

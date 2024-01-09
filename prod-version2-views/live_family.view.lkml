@@ -1,5 +1,5 @@
 view: live_family {
-  sql_table_name: `milky-way-galaxy-2707.KPI.live_family`
+  sql_table_name: `phc-platform.KPI.live_family`
     ;;
 
   dimension: new_records_added {

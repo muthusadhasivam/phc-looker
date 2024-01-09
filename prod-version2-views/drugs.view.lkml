@@ -1,5 +1,5 @@
 view: drugs {
-  sql_table_name: `milky-way-galaxy-2707.KPI.drugs`
+  sql_table_name: `phc-platform.KPI.drugs`
     ;;
 
   dimension: citizen_block_gid {
